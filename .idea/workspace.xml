@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f3e4821-b3fd-4b51-b5c5-726eb75fff99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-14-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/markdown/2022-01-02-io-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/markdown/2022-01-02-io-blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2388jK2HY5BoAhgsPUHm41k2tnY" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -35,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -60,7 +59,8 @@
       <workItem from="1641104490477" duration="6604000" />
       <workItem from="1641120145332" duration="3199000" />
       <workItem from="1641169664990" duration="2365000" />
-      <workItem from="1641177863137" duration="1451000" />
+      <workItem from="1641177863137" duration="1672000" />
+      <workItem from="1641180959159" duration="59000" />
     </task>
     <servers />
   </component>
