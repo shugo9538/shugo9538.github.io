@@ -58,14 +58,14 @@ The placeholder portfolio image can be replaced by the desired image by placing 
 
 ```yaml
 plainwhite:
-  portfolio_image:  "assets/portfolio.jpg" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
 ```
 
 To use a different image for dark mode, e.g. with different colors that work better in dark mode, add a `portfolio_image_dark` entry in addition to the `portfolio_image`.
 
 ```yaml
 plainwhite:
-  portfolio_image:      "assets/portfolio.jpg"
+  portfolio_image:      "assets/portfolio.png"
   portfolio_image_dark: "assets/portfolio_dark.png"
 ```
 
