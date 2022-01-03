@@ -26,17 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    #twitter: samarsault
     github:  shugo9538
     #linkedIn: in/samarsault
-    #dribbble: jekyll
-    #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
     #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
     #gitlab: jekyll
     #email: jekyll
 
@@ -53,8 +45,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
