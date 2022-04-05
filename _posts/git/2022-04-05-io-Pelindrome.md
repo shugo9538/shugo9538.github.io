@@ -1,9 +1,9 @@
 ---
 
-title: Leet Code AddTwoNumbers 
+title: Pelindrome 
 date: 2022-04-04
 categories: [leet code]  
-tags: ['kotlin', 'leet code']  
+tags: ['java', 'leet code']  
 use_math: true
 
 ---
