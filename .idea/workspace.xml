@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f3e4821-b3fd-4b51-b5c5-726eb75fff99" name="Changes" comment="" />
+    <list default="true" id="4f3e4821-b3fd-4b51-b5c5-726eb75fff99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/git/2022-04-05-io-Pelindrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/git/2022-04-05-io-Pelindrome.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <workItem from="1641180959159" duration="59000" />
       <workItem from="1648968157298" duration="2216000" />
       <workItem from="1649079896034" duration="1310000" />
-      <workItem from="1649166818545" duration="346000" />
+      <workItem from="1649166818545" duration="505000" />
     </task>
     <servers />
   </component>
