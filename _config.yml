@@ -46,7 +46,14 @@ plainwhite:
 
 # Build settings
 # theme: plainwhite
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+
