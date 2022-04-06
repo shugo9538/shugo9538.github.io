@@ -1,7 +1,7 @@
 ---
 
-title: Pelindrome 
-date: 2022-04-04
+title: Longest Common Prefix 
+date: 2022-04-06
 categories: [leet code]  
 tags: ['java', 'leet code']  
 use_math: true
