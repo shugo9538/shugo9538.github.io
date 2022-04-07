@@ -1,7 +1,7 @@
 ---
 
 title: Pelindrome 
-date: 2022-04-04
+date: 2022-04-05
 categories: [leet code]  
 tags: ['java', 'leet code']  
 use_math: true
