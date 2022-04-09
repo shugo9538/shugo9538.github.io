@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f3e4821-b3fd-4b51-b5c5-726eb75fff99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/git/2022-04-09-io-Valid-Parentheses.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/git/2022-04-05-io-LongestCommonPrefix.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/git/2022-04-06-io-LongestCommonPrefix.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/git/2022-04-05-io-Pelindrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/git/2022-04-05-io-Pelindrome.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1649079896034" duration="1310000" />
       <workItem from="1649166818545" duration="530000" />
       <workItem from="1649251752579" duration="316000" />
-      <workItem from="1649316853280" duration="173000" />
+      <workItem from="1649316853280" duration="1389000" />
     </task>
     <servers />
   </component>
